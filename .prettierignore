@@ -1,0 +1,12 @@
+# Ignore all files in the build output directory
+.next/
+
+# Ignore node modules
+node_modules/
+
+# Ignore all JavaScript files in the tests directory
+tests/**/*.js
+
+# Ignore specific configuration files
+babel.config.js
+
